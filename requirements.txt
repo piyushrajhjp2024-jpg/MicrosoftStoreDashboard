@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+google-play-scraper
+transformers
+torch
+streamlit-autorefresh
+wordcloud
+matplotlib
+reportlab
